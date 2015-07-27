@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/resources/menu_en.properties=UTF-8
+encoding//src/main/resources/menu_ua.properties=ISO-8859-1
+encoding//src/main/webapp/pages/patch_pages/ready_routes_map.jsp=UTF-8
+encoding//src/main/webapp/pages/table_pages/table_of_admins.jsp=UTF-8
+encoding//src/main/webapp/pages/table_pages/table_of_drivers.jsp=UTF-8
+encoding//src/main/webapp/pages/table_pages/table_of_messages.jsp=UTF-8
+encoding//src/main/webapp/pages/table_pages/table_of_routes.jsp=UTF-8
+encoding//src/main/webapp/pages/table_pages/table_of_stations.jsp=UTF-8
+encoding//src/main/webapp/pages/table_pages/table_of_transport.jsp=UTF-8
+encoding//src/main/webapp/pages/table_pages/table_of_users.jsp=UTF-8
+encoding//src/main/webapp/pages/user_pages/admin_page.jsp=UTF-8
+encoding//src/main/webapp/pages/user_pages/commander_page.jsp=UTF-8
+encoding//src/test/java=UTF-8
+encoding/<project>=UTF-8
